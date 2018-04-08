@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoL Builder</string>
+    <string name="rotation">Aktualna rotacja</string>
+    <string name="save_build">Stwórz nowy build</string>
+    <string name="load_build">Wczytaj stworzony build</string>
+    <string name="layout_inflater">Pokaż wykorzystanie LayoutInflater</string>
+</resources>
